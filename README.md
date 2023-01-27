@@ -1,16 +1,47 @@
-### Hi there 👋
+<!-- <img src="https://d33wubrfki0l68.cloudfront.net/5df288145f1ec3abe9682c7f62b157c6fa506811/7f39f/img/cj-llama.png" alt="drawing" width="100%"/> -->
 
-<!--
-**cornelius-jones/cornelius-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, my name is Cornelius :wave:. 
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### About me
+
+  
+
+- 🖍️ A junior technical writer with experience crafting help documentation for SaaS platforms. As a former customer support specialist, I've learned the importance of addressing a target audience. My work experience and education make me qualified in the areas of Technical Writing, Copy Editing, and Content Creation. I pride myself on being results-oriented; whether it's developing processes for creating documentation, or writing technical guides as a part of cross-functional teams.
+
+- Currently going through a <a href="https://www.udacity.com/scholarships/oneten-bit-scholarship">Front-end Web Development scholarship program</a> with Udacity and OneTen. 
+
+- Husband, father, son, brother, uncle, and friend.
+  
+  <hr>
+
+### Current skills
+
+- <h4> Languages </h4>
+
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+
+  
+- <h5> Currently learning </h5>
+
+   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+
+
+- <h4> Design tools </h4>
+
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+
+  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
+
+  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+
+
+### Get in touch
+  - <a href="https://corneliusjones.com">Corneliusjones.com</a>
+  - <a href="mailto:corneliusjoneswork@gmail.com">Corneliusjoneswork@gmail.com
+  - <a href="https://www.linkedin.com/in/corneliusjones11/">Linkedin</a>
