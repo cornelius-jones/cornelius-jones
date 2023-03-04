@@ -42,6 +42,6 @@
 
 
 ### Get in touch
-  - <a href="https://corneliusjones.com">Corneliusjones.com</a>
+  - <a href="https://corneliusjones.com">Corneliusjones.com</a> (WIP)
   - <a href="mailto:corneliusjoneswork@gmail.com">Corneliusjoneswork@gmail.com
   - <a href="https://www.linkedin.com/in/corneliusjones11/">Linkedin</a>
