@@ -10,7 +10,7 @@
 
   
 
-- 🖍️ I'm a Content Designer with experience creating help documentation for SaaS platforms. As a former customer support specialist, I've learned the importance of addressing a target audience. My work experience and education make me qualified in the areas of technical writing, copy editing, and cntent creation. I pride myself on being results-oriented; whether it's developing processes for creating documentation, or writing technical guides as a part of cross-functional teams.
+- 🖍️ I'm a Content Designer with experience creating help documentation for SaaS platforms. As a former customer support specialist, I've learned the importance of addressing a target audience. My work experience and education make me qualified in the areas of technical writing, copy editing, and content creation. I pride myself on being results-oriented; whether it's developing processes for creating documentation, or writing technical guides as a part of cross-functional teams.
 
 - Completed the <a href="https://www.udacity.com/scholarships/oneten-bit-scholarship">Front-end Web Development scholarship program</a> with Udacity and OneTen. 
 ### Current skills
